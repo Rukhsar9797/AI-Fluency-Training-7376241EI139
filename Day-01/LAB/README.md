@@ -47,3 +47,18 @@ The lab demonstrates three approaches to solving college course-related tasks:
 ---
 
 # 📁 3. Project Structure
+
+```text
+Day-01/
+│
+├── .gitignore
+├── requirements.txt
+├── config.py
+├── check_setup.py
+├── chatbot.py
+├── workflow.py
+├── tools.py
+├── agent.py
+├── challenge.py
+└── README.md
+
